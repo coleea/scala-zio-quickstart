@@ -2,10 +2,10 @@
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	example[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/gukbeomlee/projects/zio-quickstart/target/scala-3.3.0/classes/example[0m
-[0m[[0m[0mdebug[0m] [0m[0m	example/MainApp.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gukbeomlee/projects/zio-quickstart/target/scala-3.3.0/classes/example/MainApp.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	example/MainApp$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gukbeomlee/projects/zio-quickstart/target/scala-3.3.0/classes/example/MainApp$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	example/MainApp.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gukbeomlee/projects/zio-quickstart/target/scala-3.3.0/classes/example/MainApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/아무이름.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gukbeomlee/projects/zio-quickstart/target/scala-3.3.0/classes/example/아무이름.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/아무이름$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gukbeomlee/projects/zio-quickstart/target/scala-3.3.0/classes/example/아무이름$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/아무이름.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gukbeomlee/projects/zio-quickstart/target/scala-3.3.0/classes/example/아무이름.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

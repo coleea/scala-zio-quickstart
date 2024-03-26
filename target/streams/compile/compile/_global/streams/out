@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E040] Syntax Error: /Users/gukbeomlee/projects/zio-quickstart/src/main/scala/example/Main.scala:15:15 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m  [33mdef[0m [36ma[0m() : () = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m               ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m               '=>' expected, but '=' found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E067] Syntax Error: /Users/gukbeomlee/projects/zio-quickstart/src/main/scala/example/Main.scala:15:6 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m  [33mdef[0m [36ma[0m() : () = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m      ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mDeclaration of [33mmethod[0m [35ma[0m not allowed here: only classes can have declared but undefined members[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
